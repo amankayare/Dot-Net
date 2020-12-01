@@ -95,8 +95,8 @@ namespace Assignment1
                 return empNo;
             }
         }
-        private float basic;
-        public float Basic
+        private decimal basic;
+        public decimal Basic
         {
             set
             {
@@ -138,7 +138,7 @@ namespace Assignment1
 
         #region Constructors
        
-        public Employee(string Name , float Basic , short DeptNo)
+        public Employee(string Name , decimal Basic , short DeptNo)
         {
             this.Name = Name;
             this.Basic = Basic;
@@ -146,7 +146,7 @@ namespace Assignment1
             this.empNo = ++Employee.counter;
 
         }
-        public Employee(string Name, float Basic)
+        public Employee(string Name, decimal Basic)
         {
             this.Name = Name;
             this.Basic = Basic;
@@ -167,11 +167,11 @@ namespace Assignment1
         }
         #endregion
         #region Methods
-        public float GetNetSalary()
+        public decimal GetNetSalary()
         {
-            float tax = 100;
-            float houseAllowance = 1000;
-            float provident = 500;
+            decimal tax = 100;
+            decimal houseAllowance = 1000;
+            decimal provident = 500;
             return this.Basic + tax + houseAllowance + provident;
         }
         #endregion
