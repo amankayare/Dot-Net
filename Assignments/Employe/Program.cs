@@ -48,7 +48,7 @@ namespace Assignment1
             Console.WriteLine(o6.Basic);
             Console.WriteLine(o6.Name);
 
-            Console.WriteLine("Employee o7 = new Employee(" + "Aman" + ",1000,0);");
+            Console.WriteLine("Employee o7 = new Employee(" + "Aman" + ",60,0);");
 
             Employee o7 = new Employee("Aman", 60,0);
             Console.WriteLine(o7.EmpNo);
