@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\staticMembers\bin\Debug\staticMembers.exe.config
+D:\DotNet-Workplace\ConsoleApp\staticMembers\bin\Debug\staticMembers.exe
+D:\DotNet-Workplace\ConsoleApp\staticMembers\bin\Debug\staticMembers.pdb
+D:\DotNet-Workplace\ConsoleApp\staticMembers\obj\Debug\staticMembers.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\staticMembers\obj\Debug\staticMembers.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\staticMembers\obj\Debug\staticMembers.exe
+D:\DotNet-Workplace\ConsoleApp\staticMembers\obj\Debug\staticMembers.pdb

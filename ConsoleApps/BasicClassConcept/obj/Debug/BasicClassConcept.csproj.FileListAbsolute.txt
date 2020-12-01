@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\bin\Debug\BasicClassConcept.exe.config
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\bin\Debug\BasicClassConcept.exe
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\bin\Debug\BasicClassConcept.pdb
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\obj\Debug\BasicClassConcept.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\obj\Debug\BasicClassConcept.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\obj\Debug\BasicClassConcept.exe
+D:\DotNet-Workplace\ConsoleApps\BasicClassConcept\obj\Debug\BasicClassConcept.pdb

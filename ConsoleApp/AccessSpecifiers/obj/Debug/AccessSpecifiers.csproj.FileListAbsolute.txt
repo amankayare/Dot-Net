@@ -1,0 +1,6 @@
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\bin\Debug\AccessSpecifiers.dll
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\obj\Debug\AccessSpecifiers.dll
+D:\DotNet-Workplace\ConsoleApp\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
