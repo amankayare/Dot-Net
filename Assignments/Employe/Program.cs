@@ -50,7 +50,7 @@ namespace Assignment1
 
             Console.WriteLine("Employee o7 = new Employee(" + "Aman" + ",1000,101);");
 
-            Employee o7 = new Employee("Aman", 1000,101);
+            Employee o7 = new Employee("Aman", 1000,0);
             Console.WriteLine(o7.EmpNo);
             Console.WriteLine(o7.DeptNo);
             Console.WriteLine(o7.Basic);
@@ -120,7 +120,7 @@ namespace Assignment1
         {
             set
             {
-                if(value < 0)
+                if(value <= 0)
                 {
                     Console.WriteLine("DeptNo must be > 0");
                 }
