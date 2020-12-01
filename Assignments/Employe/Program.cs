@@ -143,25 +143,25 @@ namespace Assignment1
             this.Name = Name;
             this.Basic = Basic;
             this.DeptNo = DeptNo;
-            this.empNo = ++Employee.counter;
+            this.empNo = ++counter;
 
         }
         public Employee(string Name, decimal Basic)
         {
             this.Name = Name;
             this.Basic = Basic;
-            this.empNo = ++Employee.counter;
+            this.empNo = ++counter;
 
         }
         public Employee(string Name)
         {
             this.Name = Name;
-            this.empNo = ++Employee.counter;
+            this.empNo = ++counter;
 
         }
         public Employee()
         {
-            this.empNo = ++Employee.counter;
+            this.empNo = ++counter;
 
 
         }
