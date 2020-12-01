@@ -72,7 +72,7 @@ namespace Assignment1
         {
             set
             {
-                if (String.IsNullOrEmpty(name))
+                if (String.IsNullOrEmpty(value))
                 {
                     Console.WriteLine("name can't be blank");
                 }
