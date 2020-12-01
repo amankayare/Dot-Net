@@ -24,7 +24,7 @@ namespace Assignment1
             Console.WriteLine(o1.EmpNo);
             
         // My Test Cases 
-            Console.WriteLine("Employee o4 = new Employee();");
+          /*  Console.WriteLine("Employee o4 = new Employee();");
 
             Employee o4 = new Employee();
             Console.WriteLine(o4.EmpNo);
@@ -55,7 +55,7 @@ namespace Assignment1
             Console.WriteLine(o7.DeptNo);
             Console.WriteLine(o7.Basic);
             Console.WriteLine(o7.Name);
-
+	*/
             Console.ReadLine();
 
         }
