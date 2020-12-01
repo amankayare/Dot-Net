@@ -10,11 +10,11 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
+	// Test Cases
             Employee o1 = new Employee();
             Employee o2 = new Employee();
             Employee o3 = new Employee();
             
-	 // Test Cases
             Console.WriteLine(o1.EmpNo);
             Console.WriteLine(o2.EmpNo);
             Console.WriteLine(o3.EmpNo);
@@ -23,8 +23,8 @@ namespace Assignment1
             Console.WriteLine(o2.EmpNo);
             Console.WriteLine(o1.EmpNo);
             
-        // My Test Cases 
-          /*  Console.WriteLine("Employee o4 = new Employee();");
+	// My Test Cases
+            Console.WriteLine("Employee o4 = new Employee();");
 
             Employee o4 = new Employee();
             Console.WriteLine(o4.EmpNo);
@@ -32,7 +32,7 @@ namespace Assignment1
             Console.WriteLine(o4.Basic);
             Console.WriteLine(o4.Name);
 
-            Console.WriteLine("Employee o5 = new Employee("+"Aman"+");");
+            Console.WriteLine("Employee o5 = new Employee("+"\" \""+");");
 
             Employee o5 = new Employee("");
             Console.WriteLine(o5.EmpNo);
@@ -48,14 +48,14 @@ namespace Assignment1
             Console.WriteLine(o6.Basic);
             Console.WriteLine(o6.Name);
 
-            Console.WriteLine("Employee o7 = new Employee(" + "Aman" + ",1000,101);");
+            Console.WriteLine("Employee o7 = new Employee(" + "Aman" + ",1000,0);");
 
-            Employee o7 = new Employee("Aman", 1000,0);
+            Employee o7 = new Employee("Aman", 60,0);
             Console.WriteLine(o7.EmpNo);
             Console.WriteLine(o7.DeptNo);
             Console.WriteLine(o7.Basic);
             Console.WriteLine(o7.Name);
-	*/
+
             Console.ReadLine();
 
         }
@@ -100,7 +100,7 @@ namespace Assignment1
         {
             set
             {
-                if(value > 50 && value < 100)
+                if(value < 50 || value > 100)
                 {
                     Console.WriteLine("Basic should be between 50-100");
                 }
