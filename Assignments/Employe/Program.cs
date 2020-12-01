@@ -100,7 +100,7 @@ namespace Assignment1
         {
             set
             {
-                if(basic<50 && basic > 100)
+                if(value<50 && value > 100)
                 {
                     Console.WriteLine("Basic should be between 50-100");
                 }
@@ -120,7 +120,7 @@ namespace Assignment1
         {
             set
             {
-                if(deptNo < 0)
+                if(value < 0)
                 {
                     Console.WriteLine("DeptNo must be > 0");
                 }
