@@ -34,7 +34,7 @@ namespace Assignment1
 
             Console.WriteLine("Employee o5 = new Employee("+"Aman"+");");
 
-            Employee o5 = new Employee("Aman");
+            Employee o5 = new Employee("");
             Console.WriteLine(o5.EmpNo);
             Console.WriteLine(o5.DeptNo);
             Console.WriteLine(o5.Basic);
