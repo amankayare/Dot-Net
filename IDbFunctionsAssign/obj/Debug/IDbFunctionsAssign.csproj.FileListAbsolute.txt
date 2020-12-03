@@ -1,0 +1,6 @@
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\bin\Debug\IDbFunctionsAssign.exe.config
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\bin\Debug\IDbFunctionsAssign.exe
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\bin\Debug\IDbFunctionsAssign.pdb
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\obj\Debug\IDbFunctionsAssign.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\obj\Debug\IDbFunctionsAssign.exe
+D:\DotNet-Workplace\ConsoleApp\IDbFunctionsAssign\obj\Debug\IDbFunctionsAssign.pdb

@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\bin\Debug\RefAndValues.exe.config
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\bin\Debug\RefAndValues.exe
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\bin\Debug\RefAndValues.pdb
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\obj\Debug\RefAndValues.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\obj\Debug\RefAndValues.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\obj\Debug\RefAndValues.exe
+D:\DotNet-Workplace\ConsoleApp\RefAndValues\obj\Debug\RefAndValues.pdb

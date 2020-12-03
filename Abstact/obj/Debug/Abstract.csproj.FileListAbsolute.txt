@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\Abstact\obj\Debug\Abstract.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\Abstact\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\Abstact\bin\Debug\Abstact.exe.config
+D:\DotNet-Workplace\ConsoleApp\Abstact\bin\Debug\Abstact.exe
+D:\DotNet-Workplace\ConsoleApp\Abstact\bin\Debug\Abstact.pdb
+D:\DotNet-Workplace\ConsoleApp\Abstact\obj\Debug\Abstact.exe
+D:\DotNet-Workplace\ConsoleApp\Abstact\obj\Debug\Abstact.pdb
