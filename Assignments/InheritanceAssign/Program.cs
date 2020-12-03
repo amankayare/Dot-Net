@@ -80,7 +80,7 @@ namespace InheritanceAssign
                 return deptNo;
             }
         }
-        private decimal basic;
+        protected decimal basic;
         public abstract decimal Basic
         {
             get;
@@ -131,7 +131,6 @@ namespace InheritanceAssign
                 return designation;
             }
         }
-        private decimal basic;
         public override decimal Basic
         {
             get
@@ -145,10 +144,9 @@ namespace InheritanceAssign
                 basic = value;
             }
         }
-        public Manager(string Name, short DeptNo, string Designation = "manager", decimal Basic = 0) : base(Name, DeptNo)
+        public Manager(string Name, short DeptNo, string Designation = "manager", decimal Basic = 0) : base(Name, Basic,DeptNo)
         {
 
-            this.Basic = Basic;
             this.Designation = Designation;
 
         }
@@ -175,7 +173,6 @@ namespace InheritanceAssign
                 return perks;
             }
         }
-        private decimal basic;
         public override decimal Basic
         {
             set
@@ -188,9 +185,8 @@ namespace InheritanceAssign
             }
         }
 
-        public GeneralManager(string Name, short DeptNo, string Designation, string Perks, decimal Basic) : base(Name, DeptNo, Designation)
+        public GeneralManager(string Name, short DeptNo, string Designation, string Perks, decimal Basic) : base(Name,  DeptNo, Designation, Basic)
         {
-            this.Basic = Basic;
             this.Perks = Perks;
         }
         public override decimal CalacNetSalary()
@@ -202,7 +198,6 @@ namespace InheritanceAssign
 
     class CEO : Employee
     {
-        private decimal basic;
         public override decimal Basic
         {
             set
