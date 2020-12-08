@@ -9,7 +9,7 @@ namespace Question1
     
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Employee[] arr = new Employee[3];
 
@@ -166,23 +166,90 @@ namespace Question2
     {
         static void Main(string [] args)
         {
-            Console.WriteLine("Enter no. of batches in CDAC");
+            Console.WriteLine("Enter no. of Batches :");
             int nob = Convert.ToInt32(Console.ReadLine());
+            int[][][] arr2 = new int[nob][][];
 
-            string[] cdac = new string[nob];
-
-            int nos = Convert.ToInt32(Console.ReadLine());
-            for(int i = 0; i < cdac.Length; i++)
+            for (int i = 0; i < nob; i++)
             {
+                Console.WriteLine("Enter no. of Student in batch :" + (i + 1));
+                int nos = Convert.ToInt32(Console.ReadLine());
+                arr2[i] = new int[nos][];
+                for (int j = 0; j < nos; j++)
+                {
+                    Console.WriteLine("Enter no. Marks for Student :" + (j + 1));
+                    arr2[i][j] = new int[3];
+                    for (int k = 0; k < 3; k++)
+                    {
+                        Console.WriteLine("Enter Mark for Subject :" + (k + 1));
+                        arr2[i][j][k] = Convert.ToInt32(Console.ReadLine());
+                    }
+                }
+            }
+
+            for (int i = 0; i < nob; i++)
+            {
+                Console.WriteLine("Student in batch :" + (i + 1));
+
+
+                for (int j = 0; j < arr2[i].Length; j++)
+                {
+                    Console.WriteLine($"Student No. {(j + 1)} Marks : ");
+                    for (int k = 0; k < 3; k++)
+                    {
+
+                        Console.Write(arr2[i][j][k] + " ");
+                    }
+                    Console.WriteLine("");
+                }
             }
 
 
         }
+
+
+
     }
-    class Student
+}
+namespace Question3
+{
+    class Program
     {
-        private string name;
-        public string Name
+        static void Main3(string[] args)
+        {
+            Student[] arr = new Student[5];
+
+            for(int i =0; i < arr.Length; i++)
+            {
+                Console.WriteLine("Enter the name of arr["+i+"]: ");
+                string name = Console.ReadLine();
+
+                Console.WriteLine("Enter the Roll of arr[" + i + "]: ");
+                int roll = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter the Marks of arr[" + i + "]: ");
+                int marks = Convert.ToInt32(Console.ReadLine());
+
+                arr[i] = new Student(name,roll,marks);
+            }
+
+            Console.WriteLine("Details of Students");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine("The name of arr[" + i + "] Student : "+ arr[i].Name);
+                Console.WriteLine("The roll no of arr[" + i + "] Student : " + arr[i].RollNo);
+                Console.WriteLine("The marks of arr[" + i + "] Student : " + arr[i].Marks);
+                Console.WriteLine();
+                Console.WriteLine();
+            }
+
+            Console.ReadLine();
+        }
+    }
+    public struct Student{
+
+        private string name ;
+        public string Name 
         {
             get
             {
@@ -190,38 +257,63 @@ namespace Question2
             }
             set
             {
-                name = value;
+                if (String.IsNullOrEmpty(value))
+                {
+                    Console.WriteLine(" Name Can't be Empty or Null");
+                }
+                else
+                {
+                    name = value;
+                }
+                
+            }
+        }
+        private int rollNo;
+        public int RollNo
+        {
+            get
+            {
+                return rollNo;
+            }
+            set
+            {
+                if (value < 0 )
+                {
+                    Console.WriteLine("Roll should be > 0");
+                }
+                else
+                {
+                    rollNo = value;
+
+                }
             }
         }
 
-    }
-
-    class Marks
-    {
-        private int english;
-        public int English
+        private decimal marks;
+        public decimal Marks
         {
-            set
-            {
-                english = value;
-            }
             get
             {
-                return english;
+                return marks;
+            }
+            set
+            {
+                if(value < 0 || value > 100)
+                {
+                    Console.WriteLine("Marks should be > 0 and < 100");
+                }
+                else
+                {
+                    marks = value;
+
+                }
             }
         }
-
-        private int math;
-        public int Math
+        public Student(string Name="Default",int RollNo=1,decimal Marks=0)
         {
-            set
-            {
-                math = value;
-            }
-            get
-            {
-                return math;
-            }
+            this.name = Name;
+            this.rollNo = RollNo;
+            this.marks = Marks;
         }
     }
 }
