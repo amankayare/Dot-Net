@@ -1,0 +1,6 @@
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\bin\Debug\ValueTypes.exe.config
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\bin\Debug\ValueTypes.exe
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\bin\Debug\ValueTypes.pdb
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\obj\Debug\ValueTypes.exe
+D:\DotNet-Workplace\ConsoleApp\ValueTypes\obj\Debug\ValueTypes.pdb

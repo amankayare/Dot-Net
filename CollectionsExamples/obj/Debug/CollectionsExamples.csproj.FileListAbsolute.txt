@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\bin\Debug\CollectionsExamples.exe.config
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\bin\Debug\CollectionsExamples.exe
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\bin\Debug\CollectionsExamples.pdb
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\obj\Debug\CollectionsExamples.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\obj\Debug\CollectionsExamples.exe
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\obj\Debug\CollectionsExamples.pdb
+D:\DotNet-Workplace\ConsoleApp\CollectionsExamples\obj\Debug\CollectionsExamples.csprojAssemblyReference.cache

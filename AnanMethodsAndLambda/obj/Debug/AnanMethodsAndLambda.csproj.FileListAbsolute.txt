@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\bin\Debug\AnanMethodsAndLambda.exe.config
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\bin\Debug\AnanMethodsAndLambda.exe
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\bin\Debug\AnanMethodsAndLambda.pdb
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\obj\Debug\AnanMethodsAndLambda.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\obj\Debug\AnanMethodsAndLambda.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\obj\Debug\AnanMethodsAndLambda.exe
+D:\DotNet-Workplace\ConsoleApp\AnanMethodsAndLambda\obj\Debug\AnanMethodsAndLambda.pdb
