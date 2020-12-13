@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\bin\Debug\CollectionAssign.exe.config
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\bin\Debug\CollectionAssign.exe
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\bin\Debug\CollectionAssign.pdb
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\obj\Debug\CollectionAssign.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\obj\Debug\CollectionAssign.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\obj\Debug\CollectionAssign.exe
+D:\DotNet-Workplace\ConsoleApp\CollectionAssign\obj\Debug\CollectionAssign.pdb

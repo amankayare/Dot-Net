@@ -143,7 +143,7 @@ step 3: Call the func via the delegate object
 *Methods don't need to match the delegate signature exactly. For more information, see Covariance and Contra variance.
 *C# version 2.0 introduces the concept of Anonymous Methods, which permit code blocks to be passed as parameters in place of a separately defined method.
 
-      inherits            inherits                          inherits
+      inherits               inherits                        inherits
 Object<---------- Delegate<--------------MulticastDeleget<--------------Del1(Our delegate class)
 Multicast class is able to point more then one function at a time
 

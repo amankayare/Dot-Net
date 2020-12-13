@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\bin\Debug\LambdaAssign.exe.config
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\bin\Debug\LambdaAssign.exe
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\bin\Debug\LambdaAssign.pdb
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\obj\Debug\LambdaAssign.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\obj\Debug\LambdaAssign.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\obj\Debug\LambdaAssign.exe
+D:\DotNet-Workplace\ConsoleApp\LambdaAssign\obj\Debug\LambdaAssign.pdb

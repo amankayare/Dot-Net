@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\bin\Debug\ExceptionHandling.exe
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\obj\Debug\ExceptionHandling.exe
-D:\DotNet-Workplace\ConsoleApp\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

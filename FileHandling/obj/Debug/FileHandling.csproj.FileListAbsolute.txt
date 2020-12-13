@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\FileHandling\bin\Debug\FileHandling.exe.config
+D:\DotNet-Workplace\ConsoleApp\FileHandling\bin\Debug\FileHandling.exe
+D:\DotNet-Workplace\ConsoleApp\FileHandling\bin\Debug\FileHandling.pdb
+D:\DotNet-Workplace\ConsoleApp\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\FileHandling\obj\Debug\FileHandling.exe
+D:\DotNet-Workplace\ConsoleApp\FileHandling\obj\Debug\FileHandling.pdb

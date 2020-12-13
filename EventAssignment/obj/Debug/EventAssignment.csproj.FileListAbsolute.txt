@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\bin\Debug\EventAssignment.exe.config
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\bin\Debug\EventAssignment.exe
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\bin\Debug\EventAssignment.pdb
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\obj\Debug\EventAssignment.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\obj\Debug\EventAssignment.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\obj\Debug\EventAssignment.exe
+D:\DotNet-Workplace\ConsoleApp\EventAssignment\obj\Debug\EventAssignment.pdb

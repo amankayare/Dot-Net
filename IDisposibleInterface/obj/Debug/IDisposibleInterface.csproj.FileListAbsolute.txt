@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\bin\Debug\IDisposibleInterface.exe.config
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\bin\Debug\IDisposibleInterface.exe
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\bin\Debug\IDisposibleInterface.pdb
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\obj\Debug\IDisposibleInterface.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\obj\Debug\IDisposibleInterface.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\obj\Debug\IDisposibleInterface.exe
-D:\DotNet-Workplace\ConsoleApp\IDisposibleInterface\obj\Debug\IDisposibleInterface.pdb

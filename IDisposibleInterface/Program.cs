@@ -40,7 +40,7 @@ namespace SimpleWayIDisposibleInterface
 
     }
     // In this simple way we can  also do it without implementing Disposible Interface with our simple Dispose Method so what Disposible Interface is giving us is that 
-    // we can use using( ) block and we need not to call dispose method explicitly which is shown in next namespace
+    // we can use using( ){---} block and we need not to call dispose method explicitly which is shown in next namespace
 }
 namespace IDisposibleInterfaceUsingBlock
 {

@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\bin\Debug\MultiThreadingWIthSystemThreading.exe.config
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\bin\Debug\MultiThreadingWIthSystemThreading.exe
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\bin\Debug\MultiThreadingWIthSystemThreading.pdb
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\obj\Debug\MultiThreadingWIthSystemThreading.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\obj\Debug\MultiThreadingWIthSystemThreading.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\obj\Debug\MultiThreadingWIthSystemThreading.exe
+D:\DotNet-Workplace\ConsoleApp\MultiThreadingWIthSystemThreading\obj\Debug\MultiThreadingWIthSystemThreading.pdb

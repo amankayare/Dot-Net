@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\SealedClass\bin\Debug\SealedClass.exe.config
-D:\DotNet-Workplace\ConsoleApp\SealedClass\bin\Debug\SealedClass.exe
-D:\DotNet-Workplace\ConsoleApp\SealedClass\bin\Debug\SealedClass.pdb
-D:\DotNet-Workplace\ConsoleApp\SealedClass\obj\Debug\SealedClass.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\SealedClass\obj\Debug\SealedClass.exe
-D:\DotNet-Workplace\ConsoleApp\SealedClass\obj\Debug\SealedClass.pdb

@@ -167,28 +167,57 @@ namespace ExtensionMethodForInterFace
 {
 
     /* TO DO */
+    public interface IMathOperation
+    {
+        int Add(int a, int b);
+        int Mult(int a, int b);
+    }
 
+    public class MyMaths : IMathOperation
+    {
 
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+         public int Mult(int a, int b)
+        {
+            return a * b;
+        }
+    }
+    public static class MyExtensionClass
+    {
+        static void Main(string[] args)
+        {
+            IMathOperation o = new MyMaths();
+            o.MyExtendedMethod();
 
+            Console.ReadLine();
+        }
+        public static void MyExtendedMethod(this IMathOperation obj)
+        {
+            Console.WriteLine("MyExtendedMethod: "+obj.Add(10,30));
+        }
+    }
 }
 
 
 
 
 
-/*
-- To make a Extension method we have to create a static class and static method
-- The first parameter of the method should be of type for which we are making extention method
-- Before 1st parameter use 'this' keyword
-- An extension method written for base class is also available for all derived class 
-- We can write a  Extention methods for interface also and it will be availble for all the classes which implemented its
- */
+    /*
+    - To make a Extension method we have to create a static class and static method
+    - The first parameter of the method should be of type for which we are making extention method
+    - Before 1st parameter use 'this' keyword
+    - An extension method written for base class is also available for all derived class 
+    - We can write a  Extention methods for interface also and it will be availble for all the classes which implemented its
+     */
 
 
 
-namespace PartialClasses
+    namespace PartialClasses
 {
-    // we can divide our class into multi parts and  compiler will merge all parts and complies it and produce result
+    // we can divide our class into multi parts(classes) and  when we try to execute it, the compiler will merge all parts and complies it and produce result
     
     public partial class Class1
     {
@@ -229,7 +258,7 @@ namespace PartialClasses
 namespace PartialMethods
 {
     // 
-    // This class is written by 1st person who is creting place holders
+    // This class is written by 1st person who is creating place holders
     public partial class Class1
     {
         private bool isValid = true;
@@ -254,7 +283,7 @@ namespace PartialMethods
 
         }
 
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             Class1 obj = new Class1();
             obj.Validation();
@@ -271,7 +300,7 @@ namespace PartialMethods
  Some rules for Partial methods
  - partial methods are allowed in partial classes only 
  - partial methods always return void
- - partial methods implicitly private means even you cant specify private
+ - partial methods implicitly private means even you cant specify it private
  - out parametrs are not allowed in partial methods
 
  */

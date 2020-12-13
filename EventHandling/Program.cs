@@ -11,7 +11,7 @@ namespace CustomEventHandling
         static void Main1(string[] args)
         {
             Class1 ob = new Class1();// user will create object of programmers class i.e. Class1
-            ob.InvalidP1 += InvalidP1Event;// user will bind his event function to the programmers event delegate
+            ob.InvalidP1 += InvalidP1Event;// user will bind his event handler function to the programmers event delegate
 
             ob.P1 = 100;// This line may raise an event if P1 is set > 99
 

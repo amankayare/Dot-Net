@@ -120,7 +120,7 @@ namespace SortedListExample
 
 }
 
-namespace StakeExample
+namespace StackExample
 {
     class Program
     {

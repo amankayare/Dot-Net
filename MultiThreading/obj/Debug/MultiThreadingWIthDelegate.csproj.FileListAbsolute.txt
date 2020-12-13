@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\bin\Debug\MultiThreading.exe.config
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\bin\Debug\MultiThreading.exe
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\bin\Debug\MultiThreading.pdb
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\obj\Debug\MultiThreadingWIthDelegate.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\obj\Debug\MultiThreadingWIthDelegate.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\obj\Debug\MultiThreading.exe
+D:\DotNet-Workplace\ConsoleApp\MultiThreading\obj\Debug\MultiThreading.pdb

@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\bin\Debug\LanguageFeatures.exe
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\obj\Debug\LanguageFeatures.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\obj\Debug\LanguageFeatures.exe
-D:\DotNet-Workplace\ConsoleApp\LanguageFeatures\obj\Debug\LanguageFeatures.pdb

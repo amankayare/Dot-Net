@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\bin\Debug\DelegatesExamples.exe.config
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\bin\Debug\DelegatesExamples.exe
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\bin\Debug\DelegatesExamples.pdb
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\obj\Debug\DelegatesExamples.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\obj\Debug\DelegatesExamples.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\obj\Debug\DelegatesExamples.exe
-D:\DotNet-Workplace\ConsoleApp\DelegatesExamples\obj\Debug\DelegatesExamples.pdb

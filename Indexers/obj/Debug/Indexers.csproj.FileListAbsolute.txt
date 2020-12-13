@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\Indexers\bin\Debug\Indexers.exe.config
+D:\DotNet-Workplace\ConsoleApp\Indexers\bin\Debug\Indexers.exe
+D:\DotNet-Workplace\ConsoleApp\Indexers\bin\Debug\Indexers.pdb
+D:\DotNet-Workplace\ConsoleApp\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\Indexers\obj\Debug\Indexers.exe
+D:\DotNet-Workplace\ConsoleApp\Indexers\obj\Debug\Indexers.pdb
+D:\DotNet-Workplace\ConsoleApp\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache

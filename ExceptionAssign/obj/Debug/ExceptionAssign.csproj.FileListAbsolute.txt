@@ -1,0 +1,7 @@
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\bin\Debug\ExceptionAssign.exe.config
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\bin\Debug\ExceptionAssign.exe
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\bin\Debug\ExceptionAssign.pdb
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\obj\Debug\ExceptionAssign.csprojAssemblyReference.cache
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\obj\Debug\ExceptionAssign.csproj.CoreCompileInputs.cache
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\obj\Debug\ExceptionAssign.exe
+D:\DotNet-Workplace\ConsoleApp\ExceptionAssign\obj\Debug\ExceptionAssign.pdb

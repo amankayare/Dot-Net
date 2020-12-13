@@ -1,7 +1,0 @@
-D:\DotNet-Workplace\ConsoleApp\Arrays\bin\Debug\Arrays.exe.config
-D:\DotNet-Workplace\ConsoleApp\Arrays\bin\Debug\Arrays.exe
-D:\DotNet-Workplace\ConsoleApp\Arrays\bin\Debug\Arrays.pdb
-D:\DotNet-Workplace\ConsoleApp\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
-D:\DotNet-Workplace\ConsoleApp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
-D:\DotNet-Workplace\ConsoleApp\Arrays\obj\Debug\Arrays.exe
-D:\DotNet-Workplace\ConsoleApp\Arrays\obj\Debug\Arrays.pdb
