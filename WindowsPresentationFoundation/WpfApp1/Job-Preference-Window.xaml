@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.Job_Preference_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Job_Preference_Window" Height="450" Width="800">
+    <Grid x:Name="job_window" Loaded="job_window_Loaded">
+        <ListBox x:Name="lstBox1" HorizontalAlignment="Left" Height="213" Margin="77,70,0,0" VerticalAlignment="Top" Width="191"/>
+        <ListBox x:Name="lstBox2" HorizontalAlignment="Left" Height="213" Margin="465,70,0,0" VerticalAlignment="Top" Width="177"/>
+        <Button x:Name="btnAddToRight" Content="&gt;" HorizontalAlignment="Left" Margin="335,70,0,0" VerticalAlignment="Top" Width="75" Click="btnAddToRight_Click"/>
+        <Button x:Name="btnAddAllToLeft" Content="&lt;&lt;&lt;" HorizontalAlignment="Left" Margin="335,263,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnAddToLeft" Content="&lt;" HorizontalAlignment="Left" Margin="335,205,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnAddAllToRight" Content="&gt;&gt;&gt;" HorizontalAlignment="Left" Margin="335,136,0,0" VerticalAlignment="Top" Width="75" Click="btnAddAllToRight_Click"/>
+
+    </Grid>
+</Window>

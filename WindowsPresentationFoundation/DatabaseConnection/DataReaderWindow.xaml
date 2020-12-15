@@ -1,0 +1,16 @@
+﻿<Window x:Class="DatabaseConnection.DataReaderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatabaseConnection"
+        mc:Ignorable="d"
+        Title="DataReaderWindow" Height="450" Width="800">
+    <Grid x:Name="btnSelect">
+        <ListBox x:Name="lstBox1" HorizontalAlignment="Left" Height="178" Margin="99,86,0,0" VerticalAlignment="Top" Width="153"/>
+        <Button x:Name="btnSelect1" Content="Select&#xD;&#xA;" HorizontalAlignment="Left" Margin="131,296,0,0" VerticalAlignment="Top" Width="75" Height="19" Click="btnSelect1_Click"/>
+        <Button x:Name="btnReadEmpAndDept" Content="ReadEmpAndDept" HorizontalAlignment="Left" Margin="240,296,0,0" VerticalAlignment="Top" Width="131" Click="btnReadEmpAndDept_Click"/>
+        <Button x:Name="btnDeptWiseEmp" Content="DeptWiseEmp" HorizontalAlignment="Left" Margin="441,296,0,0" VerticalAlignment="Top" Width="107" Click="btnDeptWiseEmp_Click"/>
+
+    </Grid>
+</Window>
