@@ -1,0 +1,24 @@
+﻿<Window x:Class="DatabaseConnection.PracticeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatabaseConnection"
+        mc:Ignorable="d"
+        Title="PracticeWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnInsert" Content="Insert " HorizontalAlignment="Left" Margin="671,32,0,0" VerticalAlignment="Top" Width="95" Height="32" Click="btnInsert_Click"/>
+        <DataGrid x:Name="dgStudents" HorizontalAlignment="Left" Height="245" Margin="28,121,0,0" VerticalAlignment="Top" Width="380"/>
+        <TextBox x:Name="txtStudentName" HorizontalAlignment="Left" Height="23" Margin="28,41,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="185,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="23" Margin="369,41,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="58,15,0,0" VerticalAlignment="Top" Width="58"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="403,15,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="225,15,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="518,41,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="DeptNo" HorizontalAlignment="Left" Margin="551,15,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnShow" Content="Show Student Data" HorizontalAlignment="Left" Margin="470,170,0,0" VerticalAlignment="Top" Width="148" Height="42" Click="btnShow_Click"/>
+        <Button x:Name="btnUpdateStudent_" Content="Update Student Data" HorizontalAlignment="Left" Margin="470,243,0,0" VerticalAlignment="Top" Width="148" Height="45" Click="btnUpdateStudent__Click"/>
+
+    </Grid>
+</Window>

@@ -9,8 +9,15 @@
     <Grid>
         <Button x:Name="btnFillData" Content="Fill Data" HorizontalAlignment="Left" Margin="434,117,0,0" VerticalAlignment="Top" Width="162" RenderTransformOrigin="0.042,2.114" Height="35" Click="btnFillData_Click" />
         <Button x:Name="btnUpdateData" Content="Update Data" HorizontalAlignment="Left" Margin="434,184,0,0" VerticalAlignment="Top" Width="162" Height="29" Click="btnUpdateData_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="434,244,0,0" VerticalAlignment="Top" Width="162" Height="31"/>
+        <Button x:Name="btnContinueUpdateOnError" Content="ContinueUpdateOnError" HorizontalAlignment="Left" Margin="434,244,0,0" VerticalAlignment="Top" Width="162" Height="31" Click="Button_Click"/>
         <DataGrid x:Name="dgEmps" HorizontalAlignment="Left" Height="313" Margin="20,32,0,0" VerticalAlignment="Top" Width="387"/>
+        <Button x:Name="btnGetChangedRows" Content="GetChangedRows" HorizontalAlignment="Left" Margin="434,298,0,0" VerticalAlignment="Top" Width="162" Height="31" Click="btnGetChangedRows_Click"/>
+        <Button x:Name="btnAcceptChanges" Content="AcceptChanges" HorizontalAlignment="Left" Margin="434,345,0,0" VerticalAlignment="Top" Width="162" Height="30" Click="btnAcceptChanges_Click"/>
+        <Button x:Name="btnRejectChanges" Content="Reject Changes(Undo)" HorizontalAlignment="Left" Margin="630,117,0,0" VerticalAlignment="Top" Width="140" Height="35" Click="btnRejectChanges_Click"/>
+        <Button x:Name="btnFilter" Content="Filter" HorizontalAlignment="Left" Margin="630,184,0,0" VerticalAlignment="Top" Width="39" Height="29" Click="btnFilter_Click"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="29" Margin="674,184,0,0" TextWrapping="Wrap" Text="enter dept no" VerticalAlignment="Top" Width="96"/>
+        <Button x:Name="btnSaveToFile" Content="Save To File" HorizontalAlignment="Left" Margin="630,229,0,0" VerticalAlignment="Top" Width="140" Height="26" Click="btnSaveToFile_Click" />
+        <Button x:Name="btnReadFromFile" Content="Read From File" HorizontalAlignment="Left" Margin="630,273,0,0" VerticalAlignment="Top" Width="140" Height="26" Click="btnReadFromFile_Click"/>
 
     </Grid>
 </Window>

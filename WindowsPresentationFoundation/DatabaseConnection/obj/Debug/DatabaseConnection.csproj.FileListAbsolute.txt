@@ -17,3 +17,9 @@ D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\D
 D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\DataReaderWindow.baml
 D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\DataSetUsingDataAdaptorWindow.g.cs
 D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\DataSetUsingDataAdaptorWindow.baml
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\TypedDataSet-ShowFromDataSetXSDWindow.g.cs
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\TypedDataSet-ShowFromDataSetXSDWindow.baml
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\PracticeWindow.g.cs
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\TestWindow.g.cs
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\PracticeWindow.baml
+D:\DotNet-Workplace\WindowsPresentationFoundation\DatabaseConnection\obj\Debug\TestWindow.baml
